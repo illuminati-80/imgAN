@@ -1,4 +1,9 @@
+
 # imgAN
+![GitHub](https://img.shields.io/github/license/cryozeus/imgAN?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/cryozeus/imGAN?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cryozeus/imGAN?style=for-the-badge)
+
 #### A Project on Training, Testing, Classification and Detection of images generated via **GANs**
 by Yash Bhardwaj
 
