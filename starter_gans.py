@@ -343,4 +343,3 @@ history = fit(epochs, lr)
 torch.save(generator.state_dict(), 'G.pth')
 torch.save(discriminator.state_dict(), 'D.pth')
 
-Image('./generated/generated-images-0001.png')
