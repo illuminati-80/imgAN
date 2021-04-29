@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryozeus/imGAN?style=for-the-badge)
 
 #### A Project on Training, Testing, Classification and Detection of images generated via **GANs**
-by Yash Bhardwaj
+by Yash Bhardwaj & Siddhant Singh
 
 
 ### Generative Modelling
